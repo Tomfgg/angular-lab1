@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+img{
+    width: 70%;
+    margin-left: 50px;
+}
+body > div > div{
+    font-size: 32px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    margin-top: 100px;
+    background-color: darkgrey;
+    border-color: darkgray;
+}
+h1{
+    font-size: 50px;
+}

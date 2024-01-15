@@ -1,0 +1,14 @@
+#grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#grid div{
+    display: flex;
+    height: 200px ;
+    background-color: darkgray;
+    margin: 20px;
+    text-decoration:dotted;
+    justify-content: center;
+    align-items: center;
+    
+}
