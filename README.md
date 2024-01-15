@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portofolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# angular-lab1
+>>>>>>> 19339389a4ae7f0990cdef1b288e5f69b2b98ffc
